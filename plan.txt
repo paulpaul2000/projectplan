@@ -5,4 +5,6 @@
 - Do Use Case analysis
 - Do implementation
 - Do testing
+- Deployment of finished product
 - Sell the project
+
